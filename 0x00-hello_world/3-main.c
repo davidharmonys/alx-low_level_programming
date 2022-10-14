@@ -2,8 +2,7 @@
 
 int main(void)
 {
-	printf("Compiler and Assembler");
+	printf("Hello 4-main");
 	return(0);
-
 
 }
