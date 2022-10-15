@@ -1,2 +1,2 @@
-#!/bin/bash
-puts(str);
+int puts(const char* str);
+
