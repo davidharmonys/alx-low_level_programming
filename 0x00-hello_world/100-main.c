@@ -9,6 +9,6 @@
 int main(void)
 
 {
-	printf("David Harmony");
+	printf("Holberton School");
 	return (0);
 }
